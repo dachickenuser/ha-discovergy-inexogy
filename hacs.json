@@ -1,0 +1,9 @@
+{
+    "name": "Inexogy / Discovergy Smart Meter",
+    "content_in_root": false,
+    "domains": [
+        "inexogy"
+    ],
+    "homeassistant": "2024.1.0",
+    "country": "DE"
+}
